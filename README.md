@@ -18,7 +18,6 @@ Tkinter based UI for data exploration, cleaning, and modelling.
     cd MLPlatform
 
 #### Install requirements
-    python setup.py install or python setup.py develop
     pip install -r requirements.txt
 
 

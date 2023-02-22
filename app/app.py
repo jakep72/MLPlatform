@@ -17,11 +17,11 @@ from matplotlib.figure import Figure
 import matplotlib.animation as animation
 from matplotlib import style
 from matplotlib.ticker import MaxNLocator
-from mlplatform.core.mlpRegress import MLPRegress
-from mlplatform.core.mlrNormEq import MLRNormEq
-from mlplatform.core.data_manipulation import create_report, create_filtered, transfer
-import mlplatform.pandastable_mods as pandastable
-from mlplatform.pandastable_mods import Table, TableModel
+from MLPlatform.core.mlpRegress import MLPRegress
+from MLPlatform.core.mlrNormEq import MLRNormEq
+from MLPlatform.core.data_manipulation import create_report, create_filtered, transfer
+import MLPlatform.pandastable_mods as pandastable
+from MLPlatform.pandastable_mods import Table, TableModel
 
 # Global style and format settings
 LARGE_FONT= ("Verdana", 12)

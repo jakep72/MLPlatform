@@ -1,5 +1,5 @@
 
-from mlplatform.core.mlpRegress import MLPRegress
-from mlplatform.core.mlrNormEq import MLRNormEq
-from mlplatform.core.data_manipulation import create_report, create_filtered, transfer
-from mlplatform import pandastable_mods
+from MLPlatform.core.mlpRegress import MLPRegress
+from MLPlatform.core.mlrNormEq import MLRNormEq
+from MLPlatform.core.data_manipulation import create_report, create_filtered, transfer
+from MLPlatform import pandastable_mods
