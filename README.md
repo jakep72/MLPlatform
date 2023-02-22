@@ -9,11 +9,13 @@ Tkinter based UI for data exploration, cleaning, and modelling.
 
     python -m venv <your_env_name>
     cd <your_env_name>
-    Scripts\activate
+    cd Scripts
+    Activate.bat
+    cd ..
 
 #### Clone the repo and navigate to the module
     git clone https://github.com/jakep72/MLPlatform.git
-    cd Acoustipy
+    cd MLPlatform
 
 #### Install requirements
     python setup.py install or python setup.py develop
