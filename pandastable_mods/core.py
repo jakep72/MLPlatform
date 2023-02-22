@@ -604,7 +604,7 @@ class Table(Canvas):
         rc = self.rowcolors
         if cols is None:
             cols = self.multiplecollist
-        elif cols is 'all':
+        elif cols == 'all':
             cols = range(len(df.columns))
         colnames = df.columns[cols]
         for c in colnames:

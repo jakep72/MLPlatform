@@ -9,9 +9,7 @@ Tkinter based UI for data exploration, cleaning, and modelling.
 
     python -m venv <your_env_name>
     cd <your_env_name>
-    cd Scripts
-    Activate.bat
-    cd ..
+    Scripts\activate
 
 #### Clone the repo and navigate to the module
     git clone https://github.com/jakep72/MLPlatform.git
@@ -22,4 +20,12 @@ Tkinter based UI for data exploration, cleaning, and modelling.
 
 
 # Usage
+### Navigate to the app.py file to open the UI
+    cd app\app.py
+### Run the file 
+    python app.py
+
+Follow along with the video clip below to train a neural network using toy data located in the example folder.
+
+
 <br></br>
