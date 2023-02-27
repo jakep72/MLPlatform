@@ -28,4 +28,8 @@ Tkinter based UI for data exploration, cleaning, and modelling.
 Follow along with the video clip below to train a neural network using toy data located in the example folder.
 
 
+https://user-images.githubusercontent.com/47467358/220749037-9a2c9aea-284a-4d85-b2cb-3c17e688f2a3.mp4
+
+
+
 <br></br>
